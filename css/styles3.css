@@ -5,7 +5,7 @@ html{
 h1{
 font-family: 'Times New Roman', Times, serif;
 text-align: center;
-background-color: brown;
+background-color: thistle;
 }
 h2{
     font-family: 'Times New Roman', Times, serif;
@@ -29,7 +29,7 @@ p{
 #screenshot {
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color:chocolate;
+    background-color:thistle;
 }
 .afbeelding1 {
     width: 500px;
@@ -57,4 +57,20 @@ p{
 }
 #feedback0 {
    text-align: center;
+}
+.afbeelding4 {
+    width: 600px;
+    height: 200px;
+}
+#feedback2 {
+    background-color: thistle;
+    font-family: 'Times New Roman', Times, serif;
+}
+#reflectie0 {
+    background-color:thistle;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#link {
+    background-color: thistle;
 }
