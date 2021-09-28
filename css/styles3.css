@@ -1,0 +1,60 @@
+
+html{
+    background-color: bisque;
+}
+h1{
+font-family: 'Times New Roman', Times, serif;
+text-align: center;
+background-color: brown;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+ font-family: 'Times New Roman', Times, serif;
+ text-align: center;
+}
+#h3 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#top {
+   display: flex;
+   justify-content: space-around;
+
+}
+
+#screenshot {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:chocolate;
+}
+.afbeelding1 {
+    width: 500px;
+    height: 300px;
+}
+.afbeelding2 {
+    width: 500px;
+    height: 300px;
+}
+.afbeelding3 {
+    width: 500px;
+    height: 300px;
+}
+#afbeelding {
+    display: flex;
+    justify-content: space-around;
+}
+#uitleg {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#reflectie {
+    text-align: center;
+}
+#feedback0 {
+   text-align: center;
+}
